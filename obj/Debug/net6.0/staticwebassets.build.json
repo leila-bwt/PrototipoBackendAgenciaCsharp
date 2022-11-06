@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dvp7zYDuYVoIiARsExmzWYIXcU6s+3flRjnvCKl9JAE=",
+  "Source": "BackendAgenciaCsharp",
+  "BasePath": "_content/BackendAgenciaCsharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
